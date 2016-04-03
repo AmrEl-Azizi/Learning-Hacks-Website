@@ -1,0 +1,69 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color:#F2F2F2;
+}
+
+.title {
+    color:#3187BC;
+    font-size:1.625em;
+}
+
+#help{
+    color: #000000;
+}
+
+#left {
+    color:#3187BC; /* logo blue */
+    font-size: 1em;
+    text-align: left;
+}
+
+
+#download {
+    background-color: #3187BC;
+    border: none;
+    color: #DEDEDE;
+    padding: 0.469em 2em;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: inline-block;
+    font-size: 1em;
+    border-radius: 0.625em;
+    width: 15.625em;
+}
+
+#download:hover {
+    background-color: #5DA7D5; /* Lighter Blue */
+    color: #808080; /* Darker Grey */
+}
+
+p {
+    font-family: 'Slabo 27px', serif;
+    color: #0d0d0d;
+    
+}
+
+.mainbody{
+    padding-left: 3.125em;
+    padding-right: 3.125em;
+}
+
+.creditHeader {
+    border: solid 1px #CCCCCC;
+	background-color: #3187BC;
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+    color:#f2f2f2;
+}
+.bullets {
+    border: solid 1px #CCCCCC;
+	background-color: #3187BC;
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+}

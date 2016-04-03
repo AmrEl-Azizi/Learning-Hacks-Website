@@ -1,0 +1,5 @@
+Colors:
+
+Blue - #3187BC
+
+Grey - #DEDEDE
